@@ -1,0 +1,32 @@
+body{
+  background-color: #98004E ;
+}
+
+.div-1{
+  font-family: serif; 
+  color:  #CD1E1B ;
+  text-align: center; 
+  font-size: 30px;
+  margin-right: -250px; 
+  background-color:#98004E ;
+}
+
+.div-2{
+  text-align: center; 
+  background-color: #98004E;
+}
+
+.span-1{
+  color:  #CD1E1B ;
+}
+
+.span-2-for-button{
+  font-size: 30px;
+}
+
+.button-1{
+  width: 400px; height: 50px;
+  border-radius: 10%  ;
+  margin-left: 132px;
+  margin-top: 200px; 
+}
